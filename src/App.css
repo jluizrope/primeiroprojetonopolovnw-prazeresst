@@ -1,11 +1,10 @@
 .App {
   text-align: center;
-  background-image: url('./assets/myprofilepicture.jpg');
+  background-image: url('./assets/backgroundimage.jpg');
   background-repeat: no-repeat;
   width: 100%;  
   height: 100vh;
   background-size: 100%;
-  transform: rotate(45deg);
 }
 
 .App-logo {
